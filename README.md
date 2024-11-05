@@ -1,7 +1,7 @@
-# ******.Industry.Grancel
+# AI.Industry.Grancel
 
 #### 介绍
-为工业类软件专用的日志记录处理库。
+离散型制造业专用的AI数字化智慧制造平台。
 
 #### 建议&疑问
 任何建议或疑问请发送到lijiaan2@grancel.com
